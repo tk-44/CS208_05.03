@@ -1,6 +1,24 @@
 h1{
-  border-color: #d3e644;
-  border-style: dashed;
+  padding: 5px;
+  font: 24px Arial;
+  color: white;
+  background-color: red;
+}
+#author-name-and-date {
+  font: 12px Arial; 
+  color: gray;
+}
+p, ol {
+  font: 16px "Times New Roman";
+  color: DarkSlateGray;
+}
+.links {
+  font: 12px Arial;
+  color: blue;
+}
+.links a {
+  font: 12px Arial;
+  color: blue;
 }
 
 table {
